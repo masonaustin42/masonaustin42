@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Mason, a Seattle-based software engineer whose journey started in music, playing piano from an early age and diving into Audio Engineering at UW. Transitioning through roles as an Electrician and Audio Visual Technician, I specialized in speaker installations, TV setups, and intricate cable work. Progressing further, I delved into programming, fine-tuning audio DSP systems, configuring AV networks, and exploring lua scripting. Seeking a more code-centric environment, I pursued a 6-month coding bootcamp at App Academy. Among various projects, I contributed to crafting an UberEats clone, developing a responsive web app using React for frontend, Flask for backend, and integrating AWS for efficient storage. My passion lies in creating robust solutions and leveraging diverse skills acquired across music, engineering, and coding.
 
-## Languages/Frameworks/Tools I am familiar with:
+### Languages/Frameworks/Tools I am familiar with:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
