@@ -28,3 +28,7 @@ I'm Mason, a Seattle-based software engineer whose journey started in music, pla
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonaustin42)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonaustin42)
