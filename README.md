@@ -7,7 +7,7 @@ Software Engineer
 I'm Mason, a Seattle-based software engineer whose journey started in music, playing piano from an early age and diving into Audio Engineering at UW. Transitioning through roles as an Electrician and Audio Visual Technician, I specialized in speaker installations, TV setups, and intricate cable work. Progressing further, I delved into programming, fine-tuning audio DSP systems, configuring AV networks, and exploring lua scripting. Seeking a more code-centric environment, I pursued a 6-month coding bootcamp at App Academy. Among various projects, I contributed to crafting an UberEats clone, developing a responsive web app using React for frontend, Flask for backend, and integrating AWS for efficient storage. My passion lies in creating robust solutions and leveraging diverse skills acquired across music, engineering, and coding.
 
 * 🌍  I'm based in Seattle, WA
-* 🖥️  See my [portfolio here](http://https://masonaustin42.github.io/)
+* 🖥️  See my [portfolio here](https://masonaustin42.github.io/)
 * ✉️  You can contact me at [masonaustin42@gmail.com](mailto:masonaustin42@gmail.com)
 
 ### Languages/Frameworks/Tools I am familiar with:
